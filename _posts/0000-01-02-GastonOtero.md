@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-your text
+Captioning memes is both a science and an artform
 Use the left arrow to go back!
